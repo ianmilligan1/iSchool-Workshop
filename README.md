@@ -1,6 +1,8 @@
 # iSchool-Workshop
 30 October 2015, 10am-noon, Semaphore Demo Room in the Robarts Library, University of Toronto (Room 1150)
 
+This workshop follows a lecture that Ian Milligan will be giving on 29 October 2015. A draft of his slidedeck can be found in this repository as well. Download the [PDF here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/iSchool-Slidedeck.pdf).
+
 ## Pre-Requisites
 - this repository
 - Gephi
