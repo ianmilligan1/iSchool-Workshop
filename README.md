@@ -17,12 +17,18 @@ We'll be discussing and demonstrating the Canadian Political Parties and Politic
 We also have pre-generated derivative data that we've generated using [warcbase](https://github.com/lintool/warcbase), which will be demoed in this workshop.
 
 ## Accessing Web Archived Data
+![Shine](https://raw.githubusercontent.com/ianmilligan1/iSchool-Workshop/master/Shine.png)
+_Figure 1: Shine in Action_
+
 - Archive-It portal
 - Shine portal: [Setting up UK Web Archive's Shine on OS X](https://github.com/lintool/warcbase/wiki/Shine:-Installing-Shine-Frontend-on-OS-X)
 - Indexing with Hadoop: [Building Lucene Indexes Using Hadoop](https://github.com/lintool/warcbase/wiki/Building-Lucene-Indexes-Using-Hadoop)
 - Warcbase: [Building and Running Warcbase Under OS X](https://github.com/lintool/warcbase/wiki/Building-and-Running-Warcbase-Under-OS-X)
 
 ## Link Analysis Example
+![Virtual Machine with Gephi running](https://raw.githubusercontent.com/ianmilligan1/iSchool-Workshop/master/Gephi-VM-In-Action.png)
+_Figure 2: Virtual Machine with Gephi running_
+
 - [Gephi](http://gephi.github.io/)
 - Political-Links.gdf: Generated using warcbase and the `pig2gdfp.py` portal. I will provide a walkthrough. [Raw data downloadable here.](https://raw.githubusercontent.com/ianmilligan1/iSchool-Workshop/master/political-links.gdf)
 - Ingest Political-Links.gdf into Gephi and do some analysis!
