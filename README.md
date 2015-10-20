@@ -22,5 +22,5 @@ We also have pre-generated derivative data that we've generated using [warcbase]
 
 ## Link Analysis Example
 - [Gephi](http://gephi.github.io/)
-- Political-Links.gdf: Generated using warcbase and the `pig2gdfp.py` portal. I will provide a walkthrough.
+- Political-Links.gdf: Generated using warcbase and the `pig2gdfp.py` portal. I will provide a walkthrough. [Raw data downloadable here.](https://raw.githubusercontent.com/ianmilligan1/iSchool-Workshop/master/political-links.gdf)
 - Ingest Political-Links.gdf into Gephi and do some analysis!
