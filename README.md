@@ -4,7 +4,7 @@
 This workshop follows a lecture that Ian Milligan will be giving on 29 October 2015. A draft of his slidedeck can be found in this repository as well. Download the [PDF here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/iSchool-Slidedeck.pdf).
 
 ## Pre-Requisites
-- this repository
+- this repository (`https://github.com/ianmilligan1/iSchool-Workshop.git`)
 - Gephi
     + If you want to use your own system, you can download [Gephi here](http://gephi.github.io/). Note that it requires Java 1.6 and is temperamental beyond that. 
     + If you don't feel like fighting with Java, you can download this Java Virtual Machine. (link TBA)
