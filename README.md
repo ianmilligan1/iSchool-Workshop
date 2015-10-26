@@ -9,7 +9,7 @@ This workshop follows a lecture that Ian Milligan will be giving on 29 October 2
 - this repository (`https://github.com/ianmilligan1/iSchool-Workshop.git`)
 - Gephi
     + If you want to use your own system, you can download [Gephi here](http://gephi.github.io/). Note that it requires Java 1.6 and is temperamental beyond that. 
-    + If you don't feel like fighting with Java, you can download this Java Virtual Machine. (link TBA)
+    + If you don't feel like fighting with Java, you can download this [Java Virtual Machine](http://ianmilligan.ca/historycrawler/). You'll need to install Gephi on the VM. **The password for this VM is "go"**
     + To run Gephi in the VM, run `gephi` in `~/gephi/bin`
 
 ## The Demonstration Collection
