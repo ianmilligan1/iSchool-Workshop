@@ -1,12 +1,14 @@
 # iSchool-Workshop
 30 October 2015, 10am-noon, Semaphore Demo Room in the Robarts Library, University of Toronto (Room 1150)
 
+## Workshop
 The slidedeck for this [workshop can be found here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/Web-Archive-Workshop.pdf). Note that I will almost certainly be tinkering with it up until 10am on 30 October 2015. Slidedeck is mostly links and platforms that I will be running attendees through.
 
-This workshop follows a lecture that Ian Milligan will be giving on 29 October 2015. A draft of his slidedeck can be found in this repository as well. Download the [PDF here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/iSchool-Slidedeck.pdf).
+## Preceding Lecture
+This workshop follows a lecture that I (Ian Milligan) will be giving on 29 October 2015. A draft of my slidedeck can be found in this repository as well. Download the [PDF here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/iSchool-Slidedeck.pdf).
 
 ## Pre-Requisites
-- this repository (`https://github.com/ianmilligan1/iSchool-Workshop.git`)
+- this repository (`git clone https://github.com/ianmilligan1/iSchool-Workshop.git`)
 - Gephi
     + If you want to use your own system, you can download [Gephi here](http://gephi.github.io/). Note that it requires Java 1.6 and is temperamental beyond that. If you're on OS X, [these instructions *usually* work](http://sumnous.github.io/blog/2014/07/24/gephi-on-mac/).
     + If you don't feel like fighting with Java, you can download this [Java Virtual Machine](http://ianmilligan.ca/historycrawler/). You'll need to install Gephi on the VM. **The password for this VM is "go"**
@@ -35,3 +37,8 @@ _Figure 2: Virtual Machine with Gephi running_
 - [Gephi](http://gephi.github.io/)
 - Political-Links.gdf: Generated using warcbase and the `pig2gdfp.py` portal. I will provide a walkthrough. [Raw data downloadable here.](https://raw.githubusercontent.com/ianmilligan1/iSchool-Workshop/master/political-links.gdf)
 - Ingest Political-Links.gdf into Gephi and do some analysis!
+
+## Acknowlegements
+Thanks to Dr. Christoph Becker at the University of Toronto for making this event a reality!
+
+This research has been supported by two Social Sciences and Humanities Research Council (SSHRC) grants, an Insight Grant (435-2015-0011) and an Insight Development Grant (430-2013-0616). Additional funding for student labour on this project comes from an Ontario Ministry of Research and Innovation Early Reseacher Award and the University of Waterloo.
