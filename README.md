@@ -2,7 +2,7 @@
 30 October 2015, 10am-noon, Semaphore Demo Room in the Robarts Library, University of Toronto (Room 1150)
 
 ## Workshop
-The slidedeck for this [workshop can be found here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/Web-Archive-Workshop.pdf). Note that I will almost certainly be tinkering with it up until 10am on 30 October 2015. Slidedeck is mostly links and platforms that I will be running attendees through.
+The slidedeck for this [workshop can be found here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/Web-Archive-Workshop.pdf). Slidedeck is mostly links and platforms that I will be running attendees through. If you were there in person, you can see what we did here. If you have any questions, please send me a note at [i2millig@uwaterloo.ca](mailto:i2millig@uwaterloo.ca).
 
 ## Preceding Lecture
 This workshop follows a lecture that I (Ian Milligan) will be giving on 29 October 2015. A draft of my slidedeck can be found in this repository as well. Download the [PDF here](https://github.com/ianmilligan1/iSchool-Workshop/raw/master/iSchool-Slidedeck.pdf).
