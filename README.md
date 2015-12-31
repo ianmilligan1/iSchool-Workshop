@@ -9,10 +9,7 @@ This workshop follows a lecture that I (Ian Milligan) will be giving on 29 Octob
 
 ## Pre-Requisites
 - this repository (`git clone https://github.com/ianmilligan1/iSchool-Workshop.git`)
-- Gephi
-    + If you want to use your own system, you can download [Gephi here](http://gephi.github.io/). Note that it requires Java 1.6 and is temperamental beyond that. If you're on OS X, [these instructions *usually* work](http://sumnous.github.io/blog/2014/07/24/gephi-on-mac/).
-    + If you don't feel like fighting with Java, you can download this [Java Virtual Machine](http://ianmilligan.ca/historycrawler/). You'll need to install Gephi on the VM. **The password for this VM is "go"**
-    + To run Gephi in the VM, run `gephi` in `~/gephi/bin`
+- [Gephi 0.9](http://gephi.github.io/) - should now work out of the box on most systems!
 
 ## The Demonstration Collection
 We'll be discussing and demonstrating the Canadian Political Parties and Political Interest Groups web collection. You can access it in two ways:
